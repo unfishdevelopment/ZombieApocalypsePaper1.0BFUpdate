@@ -1,0 +1,10 @@
+name: ZombieApocalypse
+version: '${project.version}'
+main: io.unfish.zombieapocalypse.Main
+api-version: 1.16
+softdepend: [ EssentialsX ]
+authors: [ unfish ]
+description: Create a zombie apocalypse in minecraft world
+commands:
+  bloodmoon:
+    description: Start/Stop bloodmoon event

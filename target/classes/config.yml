@@ -1,0 +1,15 @@
+# zombies can:
+place_block: true
+break_block: true
+run_faster: true
+not_burn_in_day: true
+attack_stronger: true
+pickup_all_items: true
+# Although im lazy but ill give you ability to manage bloodmoon events:
+#creeper explosion radius
+creeper_ex_radi: 10
+#Funny feature, manage for skeleton a funny name!
+skeleton_cname: "&eBruh"
+#Should the server try to kill players?This (setting) will make server add harmful potion
+# effects to player such as: Blind II Slow III Weak II
+harmful_eff_plr: true
